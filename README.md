@@ -34,11 +34,11 @@ CS & Business student at Lehigh University (graduating May 2027), building softw
 
 ### Featured Projects
 
-**[Floorplan Designer]([https://github.com/](https://github.com/Lehigh-Lutron-Capstone-2026-2027/lutron-capstone-2026-2027))** — Full-stack lighting design platform for Lutron Electronics
+**[Floorplan Designer](https://github.com/Lehigh-Lutron-Capstone-2026-2027/lutron-capstone-2026-2027)** — Full-stack lighting design platform for Lutron Electronics
 `React` `TypeScript` `Node.js` `Express` `Supabase`
 Real-time multi-user floorplan editor with live presence, device placement, autosave, cost tracking, and BOM export across 8 API domains.
 
-**[HawkFind]([https://github.com/](https://github.com/ryansiegristpa/HawkFind))** — Best Overall, AWS-sponsored Lehigh Valley Collegiate Hackathon
+**[HawkFind](https://github.com/ryansiegristpa/HawkFind)** — Best Overall, AWS-sponsored Lehigh Valley Collegiate Hackathon
 `AWS Rekognition` `Full-stack`
 Lost & found management service using real-time image matching, estimated to save 25% of the $50M/year lost-item value on US campuses.
 
