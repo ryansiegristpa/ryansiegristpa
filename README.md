@@ -34,7 +34,7 @@ CS & Business student at Lehigh University (graduating May 2027), building softw
 
 ### Featured Projects
 
-**[Floorplan Designer](https://github.com/Lehigh-Lutron-Capstone-2026-2027/lutron-capstone-2026-2027)** — Full-stack lighting design platform for Lutron Electronics
+**Lutron Electronics Floorplan Designer** — Full-stack lighting design platform for Lutron Electronics
 `React` `TypeScript` `Node.js` `Express` `Supabase`
 Real-time multi-user floorplan editor with live presence, device placement, autosave, cost tracking, and BOM export across 8 API domains.
 
