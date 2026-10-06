@@ -7,7 +7,6 @@ CS & Business student at Lehigh University (graduating May 2027), building softw
 - Previously tuned **OpenAI/Claude models** at RevGen Labs to improve an AI sales-email responder
 - Building **Floorplan Designer**, a full-stack real-time collaborative lighting design platform for Lutron Electronics
 - Won **Best Overall** at an AWS-sponsored hackathon (200+ participants) with **HawkFind**, a lost-and-found platform using AWS Rekognition
-- Looking for full-time SWE roles starting 2027
 
 ---
 
